@@ -1,0 +1,64 @@
+dataMem[0] = 00000000
+
+dataMem[1] = 00000001
+
+dataMem[2] = 00000002
+
+dataMem[3] = 00000003
+
+dataMem[4] = 00000004
+
+dataMem[5] = 00000005
+
+dataMem[6] = 00000006
+
+dataMem[7] = 00000007
+
+dataMem[8] = 00000008
+
+dataMem[9] = 00000009
+
+dataMem[10] = 0000000a
+
+dataMem[11] = 0000000b
+
+dataMem[12] = 0000000c
+
+dataMem[13] = 0000000d
+
+dataMem[14] = 0000000f
+
+dataMem[15] = 0000000e
+
+dataMem[16] = 00000010
+
+dataMem[17] = 00000011
+
+dataMem[18] = 00000012
+
+dataMem[19] = 00000013
+
+dataMem[20] = 00000014
+
+dataMem[21] = 00000015
+
+dataMem[22] = 0000000f
+
+dataMem[23] = 00000017
+
+dataMem[24] = 00000018
+
+dataMem[25] = 00000019
+
+dataMem[26] = 0000001a
+
+dataMem[27] = 0000001b
+
+dataMem[28] = 0000001c
+
+dataMem[29] = 0000001d
+
+dataMem[30] = 0000001e
+
+dataMem[31] = 0000001f
+
