@@ -20,6 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 module test; 
  reg clk1, clk2; 
+ 
  integer k; 
  code risc(clk1, clk2);
  initial 
@@ -33,6 +34,7 @@ module test;
  end 
  initial
  begin
+ $readmemb("C:/Users/NK VAISHNAV/Vivado files/finalCA/instructionmemory.txt",risc.Memi);
  $dumpfile ("risc.vcd"); 
  $dumpvars (0, test); 
  #300 $finish; 
